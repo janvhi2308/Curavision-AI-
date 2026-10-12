@@ -1,3 +1,12 @@
+"""
+CuraVision AI – FastAPI Backend
+================================
+Author : Janhvi Chaurasia  <janvhi2308@gmail.com>
+Role   : Backend & API Engineer
+Module : Unified REST API serving chronic-disease risk prediction,
+         clinical RAG chat, and integrated skin-lesion diagnosis endpoints.
+         Handles request validation, model loading, and LLM integration.
+"""
 import os
 import threading
 

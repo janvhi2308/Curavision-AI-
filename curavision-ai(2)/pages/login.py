@@ -1,3 +1,11 @@
+"""
+CuraVision AI – Login Page
+============================
+Author : Janhvi Chaurasia  <janvhi2308@gmail.com>
+Role   : Backend & API Engineer
+Module : Streamlit login page — handles user authentication via Supabase,
+         session management and secure credential validation.
+"""
 import streamlit as st
 
 from theme import inject_theme, FONT_IMPORT, icon

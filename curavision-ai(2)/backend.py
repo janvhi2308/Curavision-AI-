@@ -1,3 +1,12 @@
+"""
+CuraVision AI – Frontend–Backend HTTP Client
+=============================================
+Author : Janhvi Chaurasia  <janvhi2308@gmail.com>
+Role   : Backend & API Engineer
+Module : HTTP client layer that connects the Streamlit frontend to the
+         FastAPI backend, wrapping predict-risk, clinical-RAG and
+         integrated-diagnosis endpoints with typed helpers.
+"""
 import os
 from typing import Any
 import requests

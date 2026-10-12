@@ -1,3 +1,11 @@
+"""
+CuraVision AI – Sign-Up Page
+==============================
+Author : Janhvi Chaurasia  <janvhi2308@gmail.com>
+Role   : Backend & API Engineer
+Module : Streamlit sign-up page — new user registration with Supabase Auth,
+         input validation and profile initialisation on first login.
+"""
 import streamlit as st
 from theme import inject_theme, icon
 from supabase_client import supabase
