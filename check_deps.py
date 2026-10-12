@@ -1,3 +1,11 @@
+"""
+CuraVision AI – Dependency Checker
+=====================================
+Author : Malishka Chawdhery  <Malishkachawdhery@gmail.com>
+Role   : DevOps, Data & Testing Engineer
+Module : Validates that all required Python packages are present in the
+         environment before the application starts; used in CI and local setup.
+"""
 import importlib.util
 
 # List of required packages mapped to their import names

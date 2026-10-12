@@ -1,3 +1,11 @@
+"""
+CuraVision AI – Data Preprocessing
+=====================================
+Author : Malishka Chawdhery  <Malishkachawdhery@gmail.com>
+Role   : DevOps, Data & Testing Engineer
+Module : Cleans, normalises and engineers features for the diabetes dataset
+         and HAM10000 skin images used to train the ML and vision models.
+"""
 import pandas as pd
 from PIL import Image
 import numpy as np
