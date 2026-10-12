@@ -1,3 +1,11 @@
+"""
+CuraVision AI – Document Ingestion Pipeline
+============================================
+Author : Khushi Burman  <khushiiix077@gmail.com>
+Role   : NLP & LLM Engineer
+Module : Ingests clinical guideline documents into ChromaDB using
+         nomic-embed-text embeddings to build the RAG knowledge base.
+"""
 import os
 import chromadb
 from langchain_community.document_loaders import TextLoader

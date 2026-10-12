@@ -1,3 +1,13 @@
+"""
+CuraVision AI – Clinical RAG Chat Pipeline
+==========================================
+Author : Khushi Burman  <khushiiix077@gmail.com>
+Role   : NLP & LLM Engineer
+Module : RAG query pipeline using ChromaDB + nomic-embed-text + Llama 3.2.
+         Handles prompt design and grounded clinical synthesis for the
+         assistant feature.
+"""
+
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.llms import Ollama

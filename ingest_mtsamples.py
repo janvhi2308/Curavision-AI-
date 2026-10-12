@@ -1,3 +1,11 @@
+"""
+CuraVision AI – MT-Samples Dataset Ingestion
+=============================================
+Author : Khushi Burman  <khushiiix077@gmail.com>
+Role   : NLP & LLM Engineer
+Module : Ingests MT-Samples medical transcriptions into ChromaDB for the
+         clinical RAG pipeline, chunking and embedding with nomic-embed-text.
+"""
 import os
 import shutil
 import pandas as pd
