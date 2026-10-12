@@ -1,3 +1,12 @@
+"""
+CuraVision AI – Health Dashboard
+==================================
+Author : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>
+Role   : Frontend Developer
+Module : Streamlit dashboard page — interactive charts and data
+         visualisations showing assessment history, trends, and
+         chronic-disease risk metrics using Plotly.
+"""
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go

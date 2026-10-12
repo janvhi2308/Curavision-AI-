@@ -1,3 +1,13 @@
+"""
+CuraVision AI – Disease Detection Page
+========================================
+Author  : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>  (Frontend Developer)
+          Nehal Verma        <nehalverma9d@gmail.com>       (Computer Vision Expert)
+Module  : Streamlit page for skin-lesion and chronic-disease detection.
+          Integrates the EfficientNet-B4 skin model (Nehal Verma) with the
+          Streamlit UI layer (Maahi Chaurasiya), presenting Grad-CAM overlays
+          and risk-prediction results in a unified interface.
+"""
 import os
 import sys
 from pathlib import Path

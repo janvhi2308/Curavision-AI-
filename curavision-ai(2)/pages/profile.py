@@ -1,3 +1,11 @@
+"""
+CuraVision AI – User Profile Page
+===================================
+Author : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>
+Role   : Frontend Developer
+Module : Streamlit profile page — displays and allows editing of user
+         account details, personal health information and preferences.
+"""
 import streamlit as st
 from datetime import date
 from theme import inject_theme, top_nav, page_header, icon, footnote, panel

@@ -1,3 +1,12 @@
+"""
+CuraVision AI – Clinical Assistant Page
+=========================================
+Author  : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>  (Frontend Developer)
+          Khushi Burman      <khushiiix077@gmail.com>      (NLP & LLM Engineer)
+Module  : Streamlit chat interface for the RAG-backed clinical assistant.
+          UI layer designed by Maahi Chaurasiya; RAG pipeline powered by
+          Khushi Burman's ChromaDB + Llama 3.2 backend.
+"""
 import requests
 import streamlit as st
 from theme import inject_theme, top_nav, page_header

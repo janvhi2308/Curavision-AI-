@@ -1,3 +1,12 @@
+"""
+CuraVision AI – Home / Overview Page
+======================================
+Author : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>
+Role   : Frontend Developer
+Module : Streamlit home/overview page — entry point after login.
+         Summarises the user's health status and quick-access navigation
+         to all major features of the application.
+"""
 import textwrap
 import streamlit as st
 from theme import inject_theme, top_nav, icon, footnote

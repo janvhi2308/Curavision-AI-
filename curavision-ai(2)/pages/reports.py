@@ -1,3 +1,12 @@
+"""
+CuraVision AI – Reports Page
+==============================
+Author : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>
+Role   : Frontend Developer
+Module : Streamlit reports page — displays stored assessment reports,
+         allows filtering by date/type and provides PDF-style result
+         presentation for the user's health history.
+"""
 import streamlit as st
 import pandas as pd
 

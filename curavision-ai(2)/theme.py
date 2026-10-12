@@ -1,6 +1,9 @@
 """
-CuraVision AI — shared visual language.
-
+CuraVision AI – Shared Visual Theme
+=====================================
+Author : Maahi Chaurasiya  <mahichaurasiya70@gmail.com>
+Role   : Frontend Developer
+Module : Shared visual language — CSS design tokens, typography, colour
 One place for the palette, type scale, and the bits of chrome (nav bar,
 page header, badges, icons) that every page reuses. Keeps every screen
 consistent and means a palette or copy tweak happens in one file instead
