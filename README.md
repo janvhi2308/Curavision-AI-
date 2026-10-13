@@ -55,6 +55,47 @@
       <sub>Grounded Q&A powered by ChromaDB + Llama 3.2 knowledge base</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/chronic_risk_form.jpg" alt="Chronic Risk Form" width="100%"/>
+      <br/>
+      <b>📊 AI Screening — Chronic Disease Risk</b>
+      <br/>
+      <sub>Enter vitals & lab values to predict diabetes risk using the trained ML model</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/chronic_risk_result.jpg" alt="Chronic Risk Result" width="100%"/>
+      <br/>
+      <b>✅ Risk Result & Clinical Summary</b>
+      <br/>
+      <sub>Low Risk (0.01%) with clinical interpretation, primary observations & next steps</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/dashboard.jpg" alt="Dashboard" width="100%"/>
+      <br/>
+      <b>📈 Dashboard — Scan Analytics</b>
+      <br/>
+      <sub>Scans by detection type, weekly scan volume, recent activity & quick actions</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/reports.jpg" alt="Medical Reports" width="100%"/>
+      <br/>
+      <b>📋 Medical Reports</b>
+      <br/>
+      <sub>Review past detection results, filter by type & risk level, and export as PDF</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%" colspan="2">
+      <img src="screenshots/profile.jpg" alt="Profile Page" width="50%"/>
+      <br/>
+      <b>👤 User Profile</b>
+      <br/>
+      <sub>Manage personal info, health conditions, BMI, and account preferences</sub>
+    </td>
+  </tr>
 </table>
 
 ---
